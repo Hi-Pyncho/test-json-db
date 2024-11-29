@@ -12,6 +12,10 @@
   "author": "Jesper Orb",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "express": "^4.21.1",
+    "json-server": "^0.17.0",
+    "lowdb": "^7.0.1",
+    "mongodb": "^6.11.0",
+    "sqlite3": "^5.1.7"
   }
 }
